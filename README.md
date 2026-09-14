@@ -180,6 +180,10 @@ Key dashboard areas include:
 - Git
 - GitHub
 
+## 📊 Power BI Dashboard
+
+![Credit Card Fraud Risk Analytics Dashboard](fraud_detection_dashboard.png)
+
 ## 📁 Project Files
 
 ```text
@@ -188,3 +192,5 @@ Key dashboard areas include:
 ├── feature_importance.csv
 ├── model_metrics.csv
 └── shap_feature_importance.csv
+
+
